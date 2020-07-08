@@ -11,7 +11,7 @@ External Access is released under the terms of the GNU General Public License as
 See the [COPYING](https://github.com/Dolibarr/dolibarr/blob/develop/COPYING) file for a full copy of the license.
 
 ## INSTALL
-
+ 
 Note : This module need the abricot module to be installed on your dolibarr
 
 ### From the ZIP file and GUI interface
